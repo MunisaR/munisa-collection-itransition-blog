@@ -27,3 +27,5 @@ reportWebVitals();
 
 
 // MunisaR munisrahmatullayeva04@gmail.com
+// git config --global user.name "MunisaR"
+// git config --global user.email "munisrahmatullayeva04@gmail.com"
