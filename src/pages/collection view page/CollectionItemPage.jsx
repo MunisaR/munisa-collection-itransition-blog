@@ -32,7 +32,7 @@ const CollectionItemPage = () => {
         style={{
           backgroundImage: `url(${
             collection?.image ||
-            "https://images.unsplash.com/photo-1580265862291-4251b8c7e836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+            "https://cdn.dribbble.com/users/4174206/screenshots/16831422/media/94d29474875d173706b59dd856c4012d.jpg?compress=1&resize=1600x1200&vertical=top"
           })`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
